@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow – Smart Student Planner",
+  "description": "A modern, responsive smart student planner with task management, weekly scheduling, exam countdowns, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
